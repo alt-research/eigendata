@@ -1,7 +1,7 @@
 {
-    "name": "AltLayer SaaS Test AVS",
+    "name": "AltLayer Wizard Test AVS",
     "website": "https://altlayer.io/",
-    "description": "This is a test AVS deployed by AltLayer Scaling-as-a-Service platform",
+    "description": "This is a test AVS deployed by AltLayer Wizard",
     "logo": "https://raw.githubusercontent.com/alt-research/eigendata/dev/avs/AltlayerTest/logo.png",
     "twitter": "https://twitter.com/alt_layer"
 }
