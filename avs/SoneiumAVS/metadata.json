@@ -1,0 +1,7 @@
+{
+    "name": "Fast Finality Layer for Soneium (Powered by AltLayer)",
+    "website": "https://soneium.org/",
+    "description": "Fast Finality Layer for [Soneium](https://soneium.org/) is an Autonomous Verifiable Service (AVS) built by AltLayer and powered by EigenLayer’s restaking framework in collaboration with [Astar Network](https://astar.network/). It delivers sub-10 second finality for transactions on Soneium — an OP Stack-based L2 — by enabling decentralized validation of rollup state transitions. Backed by restaked ETH and ASTR on EigenLayer, this fast finality layer offers high-throughput apps near real-time confirmation, enhanced crypto-economic security, and seamless integration with Soneium's developer stack. Soneium, an Ethereum layer-2 developed by Sony Block Solutions Labs, is a versatile general-purpose blockchain platform that aims to evoke emotion, empower creativity, and realize the open internet that transcends boundaries.",
+    "logo": "https://raw.githubusercontent.com/alt-research/eigendata/dev/avs/SoneiumAVS/logo.png",
+    "twitter": "https://x.com/Soneium"
+}
